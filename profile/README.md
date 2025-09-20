@@ -2,12 +2,10 @@
 
 - [https://github.com/alpha-beta-tech/docs](https://github.com/your-chrono/docs)
 
+## Инфраструктура
+
 ## Проекты
-
-### Инфраструктура
-
-### Проект
 
 | Ссылка                       |       
 | ---------------------------- | 
-| [https://github.com/alpha-beta-tech/docs](https://github.com/your-chrono/docs) | 
+| [docs](https://github.com/your-chrono/docs) | 
