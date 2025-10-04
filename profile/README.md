@@ -6,6 +6,7 @@
 
 ## Проекты
 
-| Ссылка                       |       
-| ---------------------------- | 
-| [docs](https://github.com/your-chrono/docs) | 
+| Ссылка                                                 |      Sonar статус      | 
+| ------------------------------------------------------ | -----------------------
+| [docs](https://github.com/your-chrono/docs)            |                        |
+| [backend](https://github.com/your-chrono/backend)      | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=your-chrono_backend&metric=alert_status&token=c5c2b5faa0c653264b021cb3ad2fb0bbfe833548)](https://sonarcloud.io/summary/new_code?id=your-chrono_backend) |
